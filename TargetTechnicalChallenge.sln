@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommissionCalculator", "src\CommissionCalculator\CommissionCalculator.csproj", "{0B38D14C-1E5E-49BB-A33B-7D648B98D4EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockMovement", "src\StockMovement\StockMovement.csproj", "{6A963D9B-9CD5-40A4-9A15-3F6B01B3AEF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestCalculator", "src\InterestCalculator\InterestCalculator.csproj", "{57C47F5C-1AE7-4F13-9B83-8422B420A760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B38D14C-1E5E-49BB-A33B-7D648B98D4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B38D14C-1E5E-49BB-A33B-7D648B98D4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B38D14C-1E5E-49BB-A33B-7D648B98D4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B38D14C-1E5E-49BB-A33B-7D648B98D4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A963D9B-9CD5-40A4-9A15-3F6B01B3AEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A963D9B-9CD5-40A4-9A15-3F6B01B3AEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A963D9B-9CD5-40A4-9A15-3F6B01B3AEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A963D9B-9CD5-40A4-9A15-3F6B01B3AEF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57C47F5C-1AE7-4F13-9B83-8422B420A760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C47F5C-1AE7-4F13-9B83-8422B420A760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C47F5C-1AE7-4F13-9B83-8422B420A760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C47F5C-1AE7-4F13-9B83-8422B420A760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
